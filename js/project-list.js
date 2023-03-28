@@ -39,8 +39,8 @@ const projectList = [
       year: 2022,
     },
     link: {
-      source: 'https://github.com/Joel-100',
-      live: 'https://github.com/Joel-100/my-portfolio/tree/deploy-web',
+      source: 'https://github.com/tahseenzahra/Capstone-Module2',
+      live: 'https://fast-food-api.netlify.app/',
     },
   },
   {
@@ -61,8 +61,8 @@ const projectList = [
       year: 2022,
     },
     link: {
-      source: 'https://github.com/Joel-100',
-      live: 'https://github.com/Joel-100/my-portfolio/tree/deploy-web',
+      source: 'https://github.com/Joel-100/Math-Magicians',
+      live: 'https://math-magicians-project-app.netlify.app/',
     },
   },
   {
@@ -83,8 +83,8 @@ const projectList = [
       year: 2022,
     },
     link: {
-      source: 'https://github.com/Joel-100',
-      live: 'https://github.com/Joel-100/my-portfolio/tree/deploy-web',
+      source: 'https://github.com/Joel-100/space-travelers-hub',
+      live: 'https://kanban-2.vercel.app/',
     },
   },
   {
