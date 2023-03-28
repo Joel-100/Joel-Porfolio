@@ -16,7 +16,7 @@
 
 ## Live Demo
 
-[Joel's Portfolio]()
+[Joel's Portfolio](https://joel-kugonza-portfolio.netlify.app/)
 ## Authors
 
 👤 **Joel Kugonza**
