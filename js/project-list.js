@@ -25,7 +25,7 @@ const projectList = [
     id: 2,
     title: 'Fast Food API',
     featuredImage: {
-      url: 'images/fast-food-img.jpg',
+      url: '../images/fast-food-img.jpg',
       alt: 'fast-food-img',
     },
     description: {
@@ -47,7 +47,7 @@ const projectList = [
     id: 3,
     title: 'Math Magicians',
     featuredImage: {
-      url: 'images/math-image.jpg',
+      url: '../images/math-image.jpg',
       alt: 'math-image',
     },
     description: {
