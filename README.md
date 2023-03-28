@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Portofolio- Joel Kugonza
+# Portfolio- Joel Kugonza
 
 > For this project in the process of creating my portfolio website, I will:
 >
@@ -19,7 +19,7 @@
 [Joel's Portfolio]()
 ## Authors
 
-👤 **Michael Mesfin**
+👤 **Joel Kugonza**
 
 - GitHub: [@joel-100](https://github.com/Joel-100)
 - Twitter: [@joel kugonza](https://twitter.com/JoelKugonza)
