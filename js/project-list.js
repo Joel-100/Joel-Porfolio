@@ -18,7 +18,7 @@ const projectList = [
     },
     link: {
       source: 'https://github.com/Joel-100/capstone-1',
-      live: 'https://michael-duke.github.io/Capstone-I/',
+      live: 'https://first-capstone-project-1.netlify.app/',
     },
   },
   {

@@ -361,65 +361,7 @@
   .projects img:hover {
     transform: scale(1.2);
   }
-
-  /* Replacing all the project images */
-
-  .projects:nth-child(1) img {
-    /* content: url("../images/snapshoot-portfolio-1.jpg"); */
-  }
-
-  .projects:nth-child(2) img {
-    /* content: url("../images/snapshoot-portfolio-2.png"); */
-  }
-
-  .projects:nth-child(3) img {
-    /* content: url("../images/snapshoot-portfolio-3.jpg"); */
-  }
-
-  .projects:nth-child(4) img {
-    /* content: url("../images/snapshoot-portfolio-4.jpg"); */
-  }
-
-  .projects:nth-child(5) img {
-    /* content: url("../images/snapshoot-portfolio-5.png"); */
-  }
-
-  .projects:nth-child(6) img {
-    /* content: url("../images/snapshoot-portfolio-6.png"); */
-  }
-
-  .projects:nth-child(7) img {
-    /* content: url("../images/snapshoot-portfolio-7.png"); */
-  }
-
-  #popup-prj-1 img {
-    /* content: url("../images/snapshoot-portfolio-1.jpg"); */
-  }
-
-  #popup-prj-2 img {
-    /* content: url("../images/snapshoot-portfolio-2.png"); */
-  }
-
-  #popup-prj-3 img {
-    /* content: url("../images/snapshoot-portfolio-3.jpg"); */
-  }
-
-  #popup-prj-4 img {
-    /* content: url("../images/snapshoot-portfolio-4.jpg"); */
-  }
-
-  #popup-prj-5 img {
-    /* content: url("../images/snapshoot-portfolio-5.png"); */
-  }
-
-  #popup-prj-6 img {
-    /* content: url("../images/snapshoot-portfolio-6.png"); */
-  }
-
-  #popup-prj-7 img {
-    /* content: url("../images/snapshoot-portfolio-7.png"); */
-  }
-
+  
   .project-container {
     display: flex;
     flex-direction: column;
