@@ -3,7 +3,7 @@ const projectList = [
     id: 1,
     title: 'Africa Tech Week 2022',
     featuredImage: {
-      url: '../images/africa-tech-week-img.PNG',
+      url: 'https://raw.githubusercontent.com/Joel-100/Joel-Porfolio/update-socials/images/africa-tech-week-img.PNG',
       alt: 'capstone-project-1',
     },
     description: {
@@ -113,7 +113,7 @@ const projectList = [
     id: 6,
     title: 'Budget APP',
     featuredImage: {
-      url: 'images/budget-img.PNG',
+      url: 'https://raw.githubusercontent.com/Joel-100/Joel-Porfolio/update-socials/images/budget-img.PNG',
       alt: 'budget image',
     },
     description: {
@@ -135,7 +135,7 @@ const projectList = [
     id: 7,
     title: 'Cherry Rooms',
     featuredImage: {
-      url: 'images/Cherry-rooms.PNG',
+      url: 'https://raw.githubusercontent.com/Joel-100/Joel-Porfolio/update-socials/images/Cherry-rooms.PNG',
       alt: 'cherry rooms image',
     },
     description: {
