@@ -2,8 +2,9 @@
 .works-grid {
   display: grid;
   grid-template-columns: 1fr;
-  row-gap: 5.5rem;
-  padding: 7.125rem 1.5rem;
+  row-gap: 2.5rem;
+  padding: 1rem;
+  padding-top: 3rem;
   justify-items: center;
 }
 
